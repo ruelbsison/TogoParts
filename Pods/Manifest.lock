@@ -1,0 +1,49 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - MBProgressHUD (0.8)
+  - MWFeedParser (1.0.0):
+    - MWFeedParser/FeedParser (= 1.0.0)
+    - MWFeedParser/NSDate+InternetDateTime (= 1.0.0)
+    - MWFeedParser/NSString+HTML (= 1.0.0)
+  - MWFeedParser/FeedParser (1.0.0):
+    - MWFeedParser/NSDate+InternetDateTime
+    - MWFeedParser/NSString+HTML
+  - MWFeedParser/NSDate+InternetDateTime (1.0.0)
+  - MWFeedParser/NSString+HTML (1.0.0)
+  - UITextView+Placeholder (1.2.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5.4)
+  - MBProgressHUD (~> 0.8)
+  - MWFeedParser
+  - UITextView+Placeholder (~> 1.2)
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  MBProgressHUD: 8688c331cb64702283be37ab8d7d329cdd25f251
+  MWFeedParser: 943d319739d31b101dfb877d721e28faf5b9bb74
+  UITextView+Placeholder: 77680995fcdd07c3f52ec92fe1150874a2ac89ff
+
+PODFILE CHECKSUM: 46d0bb9da731436d2745d3c26822c1c0d3588414
+
+COCOAPODS: 1.1.0.beta.1
